@@ -1,0 +1,277 @@
+[
+  {
+    "slide": 1,
+    "title": "ИИ в образовании",
+    "part": 1,
+    "original": [
+      1
+    ]
+  },
+  {
+    "slide": 2,
+    "title": "Методологи Bilim Group",
+    "part": 1,
+    "original": [
+      2
+    ]
+  },
+  {
+    "slide": 3,
+    "title": "План семинара",
+    "part": 1,
+    "original": [
+      3
+    ]
+  },
+  {
+    "slide": 4,
+    "title": "ChatGPT Edu: национальный проект",
+    "part": 1,
+    "original": [
+      4
+    ]
+  },
+  {
+    "slide": 5,
+    "title": "Регионы · ChatGPT Edu",
+    "part": 1,
+    "original": [
+      5
+    ]
+  },
+  {
+    "slide": 6,
+    "title": "Три парадигмы интеграции ИИ в обучение",
+    "part": 1,
+    "original": [
+      7
+    ]
+  },
+  {
+    "slide": 7,
+    "title": "Этика и безопасное применение ИИ",
+    "part": 1,
+    "original": [
+      8
+    ]
+  },
+  {
+    "slide": 8,
+    "title": "Можно ли загрузить в ИИ?",
+    "part": 1,
+    "original": [
+      9
+    ]
+  },
+  {
+    "slide": 9,
+    "title": "ChatGPT Edu: интерфейс, Workspace и Codex",
+    "part": 1,
+    "original": [
+      10
+    ]
+  },
+  {
+    "slide": 10,
+    "title": "Симуляция ChatGPT Edu",
+    "part": 1,
+    "original": [
+      11
+    ]
+  },
+  {
+    "slide": 11,
+    "title": "Модели GPT Edu",
+    "part": 1,
+    "original": [
+      12
+    ]
+  },
+  {
+    "slide": 12,
+    "title": "ChatGPT Edu: организация работы и лимиты",
+    "part": 1,
+    "original": [
+      13
+    ]
+  },
+  {
+    "slide": 13,
+    "title": "Codex: помощник для цифровых материалов",
+    "part": 1,
+    "original": [
+      14
+    ]
+  },
+  {
+    "slide": 14,
+    "title": "Составление промпта",
+    "part": 1,
+    "original": [
+      15
+    ]
+  },
+  {
+    "slide": 15,
+    "title": "Интерактивное задание: улучши промпт",
+    "part": 1,
+    "original": [
+      16
+    ]
+  },
+  {
+    "slide": 16,
+    "title": "Интерактивное задание: Padlet",
+    "part": 1,
+    "original": [
+      17
+    ]
+  },
+  {
+    "slide": 17,
+    "title": "Плагины: каталог инструментов",
+    "part": 2,
+    "original": [
+      3
+    ]
+  },
+  {
+    "slide": 18,
+    "title": "Ustaz BilimAI Mektep",
+    "part": 2,
+    "original": [
+      4
+    ]
+  },
+  {
+    "slide": 19,
+    "title": "Tarbie BilimAI Mektep",
+    "part": 2,
+    "original": [
+      5
+    ]
+  },
+  {
+    "slide": 20,
+    "title": "Симуляция ChatGPT · плагины BilimAI",
+    "part": 2,
+    "original": [
+      6
+    ]
+  },
+  {
+    "slide": 21,
+    "title": "Математическая логика — викторина для 7–8 классов",
+    "part": 2,
+    "original": [
+      17
+    ]
+  },
+  {
+    "slide": 22,
+    "title": "Word Crafters · английский язык, 5 класс",
+    "part": 2,
+    "original": [
+      18
+    ]
+  },
+  {
+    "slide": 23,
+    "title": "Археологические памятники Казахстана",
+    "part": 2,
+    "original": [
+      19
+    ]
+  },
+  {
+    "slide": 24,
+    "title": "Анатомия — интерактивный 3D-атлас",
+    "part": 2,
+    "original": [
+      20
+    ]
+  },
+  {
+    "slide": 25,
+    "title": "Круговорот воды — интерактивная модель",
+    "part": 2,
+    "original": [
+      21
+    ]
+  },
+  {
+    "slide": 26,
+    "title": "Анионы — виртуальная лабораторная работа №3",
+    "part": 2,
+    "original": [
+      22
+    ]
+  },
+  {
+    "slide": 27,
+    "title": "Сила притяжения — интерактивная модель",
+    "part": 2,
+    "original": [
+      23
+    ]
+  },
+  {
+    "slide": 28,
+    "title": "HTML-материалы для урока",
+    "part": 2,
+    "original": [
+      11,
+      12
+    ]
+  },
+  {
+    "slide": 29,
+    "title": "Универсальный супер-промпт",
+    "part": 2,
+    "original": [
+      13
+    ]
+  },
+  {
+    "slide": 30,
+    "title": "Создание и проверка HTML-материала",
+    "part": 2,
+    "original": [
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "slide": 31,
+    "title": "Создайте свой HTML-проект",
+    "part": 2,
+    "original": [
+      24
+    ]
+  },
+  {
+    "slide": 32,
+    "title": "ChatGPT Edu CHAMPIONS",
+    "part": 2,
+    "original": [
+      25
+    ]
+  },
+  {
+    "slide": 33,
+    "title": "Каналы связи BilimAI",
+    "part": 2,
+    "original": [
+      26
+    ]
+  },
+  {
+    "slide": 34,
+    "title": "Обратная связь учителей",
+    "part": 2,
+    "original": [
+      27
+    ]
+  }
+]
