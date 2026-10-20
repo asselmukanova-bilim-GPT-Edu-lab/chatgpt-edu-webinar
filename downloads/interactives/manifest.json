@@ -39,8 +39,19 @@
     "language": "Русский",
     "url": "https://asselmukanova-bilim-gpt-edu-lab.github.io/chatgpt-edu-webinar/downloads/interactives/anatomy-3d.zip",
     "qr": "qr/anatomy-3d.png",
-    "bytes": 16244845,
-    "sha256": "1dd9052283d50d40e2a636fc0e51e74fa6772e9dfefd85e2646df617b8c19396",
+    "bytes": 16245122,
+    "sha256": "8c3df9ebbfbe43d04564201307e0ce4c503da4bd8b7aaad503d83550c2a89c72",
+    "note": ""
+  },
+  {
+    "id": "anatomy-kk",
+    "title": "Анатомия: интерактивті 3D-атлас",
+    "subject": "Биология",
+    "language": "Қазақша",
+    "url": "https://asselmukanova-bilim-gpt-edu-lab.github.io/chatgpt-edu-webinar/downloads/interactives/anatomy-kk.zip",
+    "qr": "qr/anatomy-kk.png",
+    "bytes": 16250680,
+    "sha256": "79afb065b9e537e74f1944005b1470f6e5485817ccbb1a2bb3d0b0e0f3310217",
     "note": ""
   },
   {
