@@ -1,0 +1,91 @@
+﻿1. Мир логики: 24 вопроса, 7-8 классы
+Русский
+https://asselmukanova-bilim-gpt-edu-lab.github.io/chatgpt-edu-webinar/downloads/interactives/logic-ru.zip
+
+2. Логика әлемі: 24 сұрақ, 7-8-сынып
+Қазақша
+https://asselmukanova-bilim-gpt-edu-lab.github.io/chatgpt-edu-webinar/downloads/interactives/logic-kk.zip
+
+3. Археологические памятники Казахстана: игра
+Русский / Қазақша
+https://asselmukanova-bilim-gpt-edu-lab.github.io/chatgpt-edu-webinar/downloads/interactives/archaeology-game.zip
+
+4. Анатомия: интерактивный 3D-атлас
+Русский
+https://asselmukanova-bilim-gpt-edu-lab.github.io/chatgpt-edu-webinar/downloads/interactives/anatomy-3d.zip
+
+5. Круговорот воды: интерактивная модель
+Русский
+https://asselmukanova-bilim-gpt-edu-lab.github.io/chatgpt-edu-webinar/downloads/interactives/water-cycle-ru.zip
+
+6. Су айналымы: интерактивті модель
+Қазақша
+https://asselmukanova-bilim-gpt-edu-lab.github.io/chatgpt-edu-webinar/downloads/interactives/water-cycle-kk.zip
+
+7. Анионы: виртуальная лабораторная работа №3
+Русский
+https://asselmukanova-bilim-gpt-edu-lab.github.io/chatgpt-edu-webinar/downloads/interactives/anions-ru.zip
+
+8. Аниондар: №3 виртуалды зертхана
+Қазақша
+https://asselmukanova-bilim-gpt-edu-lab.github.io/chatgpt-edu-webinar/downloads/interactives/anions-kk.zip
+
+9. Тяготение: интерактивная модель
+Русский
+https://asselmukanova-bilim-gpt-edu-lab.github.io/chatgpt-edu-webinar/downloads/interactives/gravity-ru.zip
+
+10. Тартылыс: интерактивті көрнекілік
+Қазақша
+https://asselmukanova-bilim-gpt-edu-lab.github.io/chatgpt-edu-webinar/downloads/interactives/gravity-kk.zip
+
+11. Сөз зергерлері: екі топтың сайысы
+kk
+https://asselmukanova-bilim-gpt-edu-lab.github.io/chatgpt-edu-webinar/downloads/interactives/soz-zergerleri.zip
+
+12. Word Crafters: Grade 5
+en
+https://asselmukanova-bilim-gpt-edu-lab.github.io/chatgpt-edu-webinar/downloads/interactives/word-crafters.zip
+
+13. Слушай. Понимай. Доказывай: три языка
+Русский / Қазақша / English
+https://asselmukanova-bilim-gpt-edu-lab.github.io/chatgpt-edu-webinar/downloads/interactives/listening-lab.zip
+
+14. Қонаққа көмектес!: диалог ойыны
+Қазақша
+https://asselmukanova-bilim-gpt-edu-lab.github.io/chatgpt-edu-webinar/downloads/interactives/qonaqqa-komektes.zip
+
+15. Ана үні: сөзбен қорғалған тағдыр
+Қазақша
+https://asselmukanova-bilim-gpt-edu-lab.github.io/chatgpt-edu-webinar/downloads/interactives/ana-uni.zip
+
+16. Қазақстанның археологиялық ескерткіштері: урок
+Русский / Қазақша
+https://asselmukanova-bilim-gpt-edu-lab.github.io/chatgpt-edu-webinar/downloads/interactives/archaeology-lesson.zip
+
+17. Әдеби терминдер: интерактивные карточки
+Қазақша
+https://asselmukanova-bilim-gpt-edu-lab.github.io/chatgpt-edu-webinar/downloads/interactives/literary-terms.zip
+
+18. Конструктор промптов для педагогов
+Русский / Қазақша
+https://asselmukanova-bilim-gpt-edu-lab.github.io/chatgpt-edu-webinar/downloads/interactives/prompt-builder.zip
+
+19. Симуляция ChatGPT и плагинов BilimAI
+Русский / Қазақша
+https://asselmukanova-bilim-gpt-edu-lab.github.io/chatgpt-edu-webinar/downloads/interactives/bilimai-simulation.zip
+
+20. Создание HTML-материалов с ИИ: интерактивное пособие
+Русский / Қазақша
+https://asselmukanova-bilim-gpt-edu-lab.github.io/chatgpt-edu-webinar/downloads/interactives/html-teacher.zip
+
+21. Можно ли загрузить в ИИ?: разбор ситуаций
+Русский / Қазақша
+https://asselmukanova-bilim-gpt-edu-lab.github.io/chatgpt-edu-webinar/downloads/interactives/ai-data-cases.zip
+
+22. Составление промпта: интерактивная практика
+Русский / Қазақша
+https://asselmukanova-bilim-gpt-edu-lab.github.io/chatgpt-edu-webinar/downloads/interactives/prompt-practice.zip
+
+23. Создайте свой HTML-проект: конструктор задания
+Русский / Қазақша
+https://asselmukanova-bilim-gpt-edu-lab.github.io/chatgpt-edu-webinar/downloads/interactives/html-project-workshop.zip
